@@ -24,4 +24,6 @@ amplify-gradle-config.json
 amplifytools.xcconfig
 .secret-*
 **.sample
+yarn.lock
+package-lock.json
 #amplify-do-not-edit-end
