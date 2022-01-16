@@ -1,10 +1,3 @@
 <template>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h1>{{ title }}</h1>
-        <p>This is the index page.</p>
-      </div>
-    </div>
-  </div>
+  selam
 </template>
